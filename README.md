@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on `HOSTED APP PLATFORM`
-- 🌱 I’m currently learning `PROMPTING TECHNIQUES`
-- 👯 I’m looking to collaborate on `RE-USABLE FLUTTER COMPONENTS`
-- 💬 Ask me about `HEALTH SUPPLEMENTS`
-- 📫 How to reach me: (LinkedIn)[https://www.linkedin.com/in/rickard-robin-1995b627/]
-- - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rickard-robin-1995b627/)
-- 😄 Pronouns: `He, because I'm a man`
-- ⚡ Fun fact: `Beware, I can throw Kal Vas Flam at will`
-
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rickard-robin-1995b627/)
+- 🔭 I’m currently working on `Things!`
+- 🌱 I’m currently learning `Prompting techniques`
+- 👯 I’m currently reading `ArXiv papers`
+- 💬 Ask me about `Health Supplements`
+- 😄 Pronouns: `Beware, I can throw Kal Vas Flam at will`
+- ⚡ Specialty: `None, I'm a generalist!`
+- ✨ [kumobits.com](htttps://kumobits.com)
+- ✨ [ai-fleet.com](htttps://ai-fleet.com)
 
 <!--
 **rille111/rille111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
