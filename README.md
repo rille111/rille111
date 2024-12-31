@@ -7,8 +7,8 @@
 - 💬 Ask me about `Health Supplements`
 - 😄 Pronouns: `Beware, I can throw Kal Vas Flam at will`
 - ⚡ Specialty: `None, I'm a generalist!`
-- ✨ [kumobits](https://kumobits.com) `ab`
-- ✨ [ai-fleet](https://ai-fleet.com) `aa`
+- ✨ Freelance Consultant [kumobits](https://kumobits.com)
+- ✨ AI Agency [ai-fleet](https://ai-fleet.com)
 
 <!--
 **rille111/rille111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
