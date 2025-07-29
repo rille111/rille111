@@ -5,12 +5,12 @@
 - 🌱 I’m currently learning `Prompting techniques`
 - 👯 I’m currently reading `ArXiv papers`
 - 💬 Ask me about `Health Supplements`
-- 😄 Pronouns: `Beware, I can throw Kal Vas Flam at will`
-- ⚡ Specialty: `None, I'm a generalist!`
+- ⚡ Specialty: `Hullstack generalist, focused on: .NET, Azure, Vue.js, Kubernetes, DevOps`
 - ✨ Freelance Consultant: [kumobits.com](https://kumobits.com)
-- ✨ AI Agency: [ai-fleet.com](https://ai-fleet.com)
+
 
 <!--
+- ✨ AI Agency: [ai-fleet.com](https://ai-fleet.com)
 **rille111/rille111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 See: https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
