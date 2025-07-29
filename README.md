@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rickard-robin-1995b627/)
-- 🔭 I’m currently working on `Things!`
-- 🌱 I’m currently learning `Prompting techniques`
+- 🔭 I’m currently working on `The backend for a Flutter app!`
+- 🌱 I’m currently learning `LLM MCP Servers`
 - 👯 I’m currently reading `ArXiv papers`
 - 💬 Ask me about `Health Supplements`
 - ⚡ Specialty: `Hullstack generalist, focused on: .NET, Azure, Vue.js, Kubernetes, DevOps`
